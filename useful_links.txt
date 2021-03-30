@@ -1,4 +1,0 @@
-1. http://learning.gem5.org/book/part1/index.html 
-		main link for the assgn, read it all.
-		read to build gem5
-		      rest of the assgn is also from Part 1 only
