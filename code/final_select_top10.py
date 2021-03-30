@@ -17,7 +17,7 @@ for file_name in list_files:
     fp = os.path.join(stat_dir, file_name)
     f = open(fp)
     lines = f.readlines()
-    ticks_list = lines[3].split(' ')
+    ticks_list = lines[197].split(' ')
     #print(ticks_list)
     ticks_list = list(filter(('').__ne__, ticks_list))
     #print(ticks_list)
